@@ -1,8 +1,8 @@
 ## Oiii eu sou o Yuri,
-<div align="left">
+<div style="float:left;">
   <a href="https://github.com/yurid3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurid3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
-  <div align="right">
+  <div style="float:left;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurid3v&layout=compact&langs_count=7&theme=dracula"/></div>
 </div>
 <div style="display: inline_block"><br>
